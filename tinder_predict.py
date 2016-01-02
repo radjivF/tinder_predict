@@ -15,13 +15,6 @@ Options:
   --version     Show version.
 
 """
-import os
-import shutil
-import re
-from time import sleep
-from random import randrange
-from glob import iglob
-import json
 import requests
 from collections import defaultdict
 from docopt import docopt
