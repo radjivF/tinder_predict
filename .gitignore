@@ -1,0 +1,26 @@
+*.py[cod]
+
+# emacs backups
+*~
+
+# vim backups
+*.swp
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Virtual environment
+venv
+
+# Mac OS X
+*.DS_Store
+
+# Temp files
+tmp/*
+
+data*
